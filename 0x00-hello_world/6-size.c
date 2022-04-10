@@ -1,6 +1,5 @@
 #include <stdio.h>
 /**
- *
  * main -Entry point of code
  *
  * Return : Always 0 (success)
